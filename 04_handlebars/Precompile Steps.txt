@@ -1,0 +1,3 @@
+npm -g install handlebars
+
+handlebars precomp.handlebars -f precomp.js
